@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_char - prints character
+ * print_char - char printed
  * @ap: argument pointer
- * @params: the parameters struct
+ * @params: parameters struct
  *
  * Return: number chars printed
  */
@@ -22,9 +22,9 @@ int print_char(va_list ap, params_t *params)
 }
 
 /**
- * print_int - prints integer
+ * print_int - int to be printed
  * @ap: argument pointer
- * @params: the parameters struct
+ * @params: parameters struct
  *
  * Return: number chars printed
  */
@@ -42,7 +42,7 @@ int print_int(va_list ap, params_t *params)
 }
 
 /**
- * print_string - prints string
+ * print_string - write str to be printed
  * @ap: argument pointer
  * @params: the parameters struct
  *
@@ -84,9 +84,9 @@ int print_string(va_list ap, params_t *params)
 }
 
 /**
- * print_percent - prints string
+ * print_percent - print mod
  * @ap: argument pointer
- * @params: the parameters struct
+ * @params: parameters struct
  *
  * Return: number chars printed
  */
@@ -98,9 +98,9 @@ int print_percent(va_list ap, params_t *params)
 }
 
 /**
- * print_S - custom format specifier
+ * print_S - format specifier
  * @ap: argument pointer
- * @params: the parameters struct
+ * @params: parameters struct
  *
  * Return: number chars printed
  */
