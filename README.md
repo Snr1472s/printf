@@ -21,9 +21,5 @@ converted for output.
 
 ## Authors
 
-* Grace Effiong <[rubylena](https://github.com/rubylena)
-* Chiedozie Ukah <[dozonalx](https://github.com/dozonalx)
-
-<p align="center">
-  <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
-</p>
+* Obinomen Godswill
+* Okolo Chiamaka
