@@ -23,7 +23,3 @@ converted for output.
 
 * Obinomen Godswill
 * Okolo Chiamaka
-
-<p align="center">
-  <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
-</p>
